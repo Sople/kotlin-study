@@ -1,5 +1,4 @@
-package cn.sople
-
+package cn.sople.base
 /**
  * 只读变量
  * 类型推断
