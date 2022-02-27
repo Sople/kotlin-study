@@ -18,5 +18,6 @@ fun main(){
     println(age)
     val letter = 'A'
     println(letter)
+    //kotlin中定义的数值类型，在实际计算中都会根据需要转换成java的基本数据类型，无需担心性能问题
 
 }
